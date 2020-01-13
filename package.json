@@ -1,0 +1,13 @@
+{
+  "name": "cacljs",
+  "version": "1.0.0",
+  "main": "calcjs.js",
+  "author": "robin <284595745@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest test"
+  },
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
